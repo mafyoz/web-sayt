@@ -1,0 +1,312 @@
+.body{
+    margin: 40px;
+}
+.blok{
+   margin: 0px 0px 0px 50px;
+   width:1000px;
+   height:10px;
+}
+.g1{
+    margin: 0px 0px 0px 50px;
+ }
+ .g2{
+    margin: 0px 50px 0px 0px;
+    float: right;
+ }
+.g3{
+    font-size: 15px;
+    float: right;
+    padding: 10px 0px 0px 0px ;
+    width: 700px;
+    height: 30px;
+}
+ul{
+    margin-left: 2%;
+    line-height: 50px;
+}ul li{
+    margin-right: 2%;
+    display: inline-block;
+}
+ul li:hover{
+    border-radius: 10px;
+    background-color:blue;
+}
+ul li a{ 
+    text-align: center;
+    color:black;
+    font-family: sans-serif;
+}
+.g4{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(48, 48, 223);
+}
+.g5{
+    float: right;
+    margin: 100px 20px 0px 0px;
+}
+.g6{
+    width: 50px;
+    height: 40px;
+    border-radius: 50%;
+}
+.g7{
+    width: 70px;
+    height: 60px;
+    border-radius: 50%;
+}
+.g8{
+    width: 80px;
+    height: 70px;
+    border-radius: 50%;
+}
+.g9{
+    padding: 370px 0px 50px 550px;
+    color: white;
+    font-size: 50px;
+}
+.g11{
+    width: 100%;
+    margin: 0px 0px 0px 300px;
+}
+.g10{
+    color: white;
+    font-size: 20px;
+    padding: 5px 0px 0px 80px;
+}
+.g12{
+width: 100px;
+height: 140px;
+background-color: white;
+float: left;
+margin: 0px 60px 0px 0px ;
+}
+.g13{
+    padding: 10px 0px 0px 30px;
+}
+.g14{
+    padding: 0px 0px 5px 20px;
+}
+.g15{
+    padding: 0px 0px 0px 20px;
+    color: blue;
+}
+.g17{
+    float: left;
+    width: 200px;
+    height: 100px;
+}
+.g18{
+    width: 100%;
+}
+.g19{
+    margin: 0px 200px 0px 0px ;
+    float: right;
+    font-size: 50px;
+}
+.g20{
+
+    padding: 0px 200px 0px 0px ;
+    font-size: 15px;
+}.g21{
+    clear: both;
+}
+.g22{
+    
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+.g23{
+    font-size: 22px;
+    padding: 20px 0px 0px 15px;
+}
+.g24{
+    padding: 10px 0px 0px 30px;
+}
+.g25{
+   margin: 10px 0px 0px 25px;
+   float: left;
+}
+.g26{
+    width: 100%;
+    clear: both;
+    margin: 30px 0px 0px 0px;
+}
+.g27{
+    float: left;
+    width: 300px;
+    height: 400px;
+}
+.g28{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+}
+.g29{
+    font-size: 15px;
+    color: blue;
+    padding: 20px 0px 0px 0px;
+}
+.g30{
+    padding: 10px 0px 10px 0px;
+}
+.g31{
+    color: rgb(0, 0, 0);
+    font-size: 20px; 
+}
+.g32{
+    width: 100%;
+    margin: 0px 0px 0px 100px;
+}
+.g33{
+    width: 20px;
+    height: 20px;
+    float: right;
+}
+.g34{
+    float: right;
+    width: 20px;
+    height: 20px;
+}
+.g35{
+    float: left;
+    width: 300px;
+    height: 400px;
+}
+.g36{
+    font-size: 35px;
+}
+.g37{
+    padding: 20px 0px 0px 0px ;
+}
+.g38{  
+    float: left;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+.g39{
+    color: blue;
+    padding: 0px 0px 0px 0px ;
+}
+.g40{
+    font-size: 15px;
+    color: rgb(56, 55, 55);
+}
+.g41{
+    font-size: 20px;
+    color: black; 
+}
+.g44{
+    float: left;
+    width: 400px;
+    height: 400px;
+}
+.g45{
+     clear: both;
+    font-size: 35px;
+}
+.g46{
+    padding: 30px 0px 0px 0px;
+    width: 250px;
+    height: 400px;
+}
+.g47{
+    float: left;
+   width: 400px;
+  
+}
+.g48{
+    float: left;
+    font-size: 30px;
+    
+}
+.g49{
+    padding: 20px 100px 0px 0px;
+}
+.g50{
+    width: 300px;
+    height: 100px;
+}
+.g51{
+    width: 300px;
+    height: 40px;
+}
+.g52{ 
+    border-radius: 20px;
+    color:white;
+    background-color: blue;
+}
+.g53{
+    padding: 20px 0px 0px 0px;
+    font-size: 15px;
+    float: right;
+    color: turquoise;
+    clear: both;
+}
+.g54{
+    margin: 40px 0px 0px 400px;
+    float: left;
+    font-size: 30px;
+   
+}
+.g55{ 
+    margin: 30px 0px 0px 10px;
+    clear: both;
+    float: left;
+}
+.g56{  
+    font-size: 18px;
+    width: 250px;
+    height: 70px;
+}
+.g57{
+    font-size: 18px;
+    width: 250px;
+    height: 70px;
+}
+.g58{
+    clear: both;
+    float: left;
+}
+.g59{
+    padding: 0px 0px 0px 30px;
+    float: left;
+}
+.g60{
+    margin: 20px 0px 0px 0px;
+    float: left;
+}
+.g61{
+    margin: 20px 0px 0px 0px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: blue;
+}
+.g62{
+    font-size: 20px;
+    margin: 0px 0px 0px 70px;
+    height: 20px;
+    width: 120px;
+}
+.g63{
+    font-size: 10px;
+    color: blue;
+    
+    
+}
+.g65{   
+    clear: both;
+    float: left;
+    width: 30px;
+    height: 30px;
+}
+.g66{ 
+    clear: both;
+}
+.g67{
+    height: 40px;
+    width: 200px;
+    float: right;
+}
